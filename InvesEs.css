@@ -1,0 +1,25 @@
+body{
+    background-color: orange;
+}
+
+
+h1{
+  background-color: navy;
+  padding: 20px;
+  border: 10px solid black;
+}
+p{
+  background-color: navy;
+  padding: 60px;
+  border: 10px solid black;
+}
+
+ul{
+  background-color: navy;
+  padding: 50px;
+  border: 10px solid black;
+}
+
+.conborde{
+  border: 10px solid black;
+  }
